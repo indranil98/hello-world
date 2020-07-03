@@ -1,2 +1,3 @@
 # hello-world
-just an repository
+i am indranil chandra. iam here to learn something new about coding,and make me a better coder...
+
